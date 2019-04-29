@@ -1,18 +1,18 @@
 ---
 layout: default
-title: About blueface
+title: About
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+Hi, I'm Roney — pronounced *ho-nay*. I'm someone with a varied set of
+interests inluding technical writing, art, philosophy, gastronomy and
+videogames. The entirety of this website is a work in progress so expect to
+see things break enventuall as well as stuff being added and redacted quite
+often.
 
-> It supports blockquotes, too.
+## I can be found on the web as:
 
-## blueface on the Internet
+* [roneygomes][github] on GitHub
+* [memdump_][twitter] on Twitter
 
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
-
-[github]: https://github.com/tnguyen/blueface/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io
+[github]: https://github.com/roneygomes
+[twitter]: https://twitter.com/memdump_
