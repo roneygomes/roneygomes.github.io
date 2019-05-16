@@ -1,19 +1,23 @@
-# Jekyll Defaults
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:  pretty
+
+# Setup
 title: Virtual Umbra
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
-highlighter: rouge
-markdown: kramdown
-permalink: /post/:title/
-paginate: 4
-plugins: [jekyll-paginate]
-paginate_path: "/page:num"
-rss_path: /feed.xml
-navigation:
-- text: About
-  url: /about/
-- text: Archive
-  url: /archive/
-- text: Tags
-  url: /tags/
+tagline: ''
+description: "Hi, I'm Roney. This is a place where I — mostly, but not limited to — talk about computer related stuff."
+baseurl: ''
+paginate: 5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+# plugins: [jekyll-paginate]
