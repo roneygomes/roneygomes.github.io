@@ -12,12 +12,8 @@ paginate: 5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name: Roney Gomes
+  email: roney477@gmail.com
 
 # Custom vars
-version:             1.0.0
-
-# Gems
-# plugins: [jekyll-paginate]
+version: 1.0.0
