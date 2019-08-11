@@ -4,9 +4,10 @@
 permalink:  pretty
 
 # Setup
-title: Virtual Umbra
+title: Umbra Virtual
 tagline: ''
-description: "Hi, I'm Roney. This is a place where I — mostly, but not limited to — talk about computer related stuff."
+description: "Olá, sou Roney. Aqui é um espaço onde escrevo sobre sobre software,
+              computadores e possivelmente outras coisas menos irrelevantes."
 baseurl: ''
 paginate: 5
 
