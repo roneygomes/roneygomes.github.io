@@ -311,6 +311,8 @@ a.sidebar-nav-item:focus {
 .post {
   margin-bottom: 4em;
   text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
   hyphens: auto;
   font-size: .925rem;
 }
@@ -328,6 +330,7 @@ div.footnotes {
 .page-title,
 .post-title {
   margin-top: 0;
+  text-align: left;
 }
 
 /* Meta data line below post title */
