@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-04-29
-title: DB Connection Pools
+title: Database Connection Pools
 tags: [databases, design patterns, object pooling]
 ---
 Surprisingly enough, up to this point in my journey writing software I never
