@@ -4,9 +4,9 @@
 permalink:  pretty
 
 # Setup
-title: Umbra Virtual
+title: Virtual Umbra
 tagline: 'Virtual Umbra'
-description: "Escapando."
+description: "Thoughts on software and work."
 baseurl: ''
 paginate: 5
 
