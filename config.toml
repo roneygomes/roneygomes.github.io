@@ -1,0 +1,4 @@
+baseURL = "https://umbravirtual.com/"
+languageCode = "pt-br"
+title = "Umbra Virtual"
+theme = "hugo-tanka"
