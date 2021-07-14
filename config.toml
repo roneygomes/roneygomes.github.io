@@ -1,4 +1,37 @@
-baseURL = "https://umbravirtual.com/"
-languageCode = "pt-br"
 title = "Umbra Virtual"
+author = "Roney Gomes"
+
+baseURL = "https://umbravirtual.com/"
+canonifyurls = true
+
+languageCode = "pt-br"
 theme = "hugo-tanka"
+
+enableEmoji = true
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+[params]
+  sitename = "umbra virtual"
+  faviconfile = "images/favicon.png"
+  highlightjs = true
+  highlightjslanguages = ["rust", "javascript", "typescript", "java", "python", "clojure"]
+  uselatex = true
+  progressively = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "blog"
+    url = "/"
+    weight = 1
+[[menu.primary]]
+    name = "rss"
+    url = "/index.xml"
+    weight = 1
+
