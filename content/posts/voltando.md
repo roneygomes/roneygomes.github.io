@@ -1,7 +1,7 @@
 ---
 title: "voltando"
 date: 2021-07-14T11:10:33-03:00
-draft: true
+draft: false
 ---
 
 senti uma certa urgência em voltar a escrever, na verdade já venho sentindo
